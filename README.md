@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning JS,React
 - 💬 Ask me about JS
 - 📫 How to reach me:[leyla.nezerli.2002@gmail.com](leyla.nezerli.2002@gmail.com)
-
+.
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <a href="https://www.w3schools.com/html/">
